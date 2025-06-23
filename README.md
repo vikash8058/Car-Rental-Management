@@ -1,5 +1,1 @@
-The project is a Java-based Car Rental System that allows customers to rent cars for a specified number of days. The system consists of three main classes: Car, Customer, and Rental. The Car class represents a car with attributes like car ID, brand, model, base price per day, and availability. The Customer class represents a customer with attributes like customer ID and name. The Rental class represents a rental agreement between a customer and a car.
 
-The system provides a menu-driven interface for users to rent a car, return a car, or exit the system. When a user chooses to rent a car, they are prompted to enter their name, select an available car, and specify the number of rental days. The system calculates the total price based on the car's base price per day and displays the rental information. If the user confirms the rental, the system updates the car's availability and adds the rental agreement to the system.
-
-The project demonstrates object-oriented programming concepts, such as encapsulation, inheritance, and polymorphism, and provides a basic implementation of a car rental system.
